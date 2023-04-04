@@ -1,0 +1,11 @@
+astor==0.8.1
+graphviz==0.19.1
+astpretty==2.1.0
+autopep8~=1.6.0
+setuptools~=57.0.0
+mosspy==1.0.8
+absl-py==1.3.0
+similarity-index-of-label-graph==2.0.1
+pygraphviz==1.9
+astunparse==1.6.3
+gast==0.5.3
